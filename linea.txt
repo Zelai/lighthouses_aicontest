@@ -1,0 +1,5 @@
+Para clonar:
+git clone https://github.com/Zelai/EkBot.git
+
+python engine/game.py maps/island.txt examples/RandBot/randbot.py EkBot/ZelaiBot/zelaibot.py
+
